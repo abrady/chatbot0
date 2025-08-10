@@ -14,3 +14,4 @@ futures-util = "0.3"
 # Direct LLM inference dependencies
 anyhow = "1.0"
 clap = { version = "4.0", features = ["derive"] }
+inquire = "0.7.5"
