@@ -1,0 +1,21 @@
+{
+  "models": [
+    {
+      "name": "vanilj/mistral-nemo-12b-celeste-v1.9:latest",
+      "path": "C:\\Users\\abrady\\.ollama\\models\\blobs\\sha256-4ee51d032e4c8b5320a3fec25074759f491eec992169e5c3c2678c8cf5b590dd",
+      "size": "7.0 GB"
+    },
+    {
+      "name": "llama3.2:1b",
+      "path": "C:\\Users\\abrady\\.ollama\\models\\blobs\\sha256-74701a8c35f6c8d9a4b91f3f3497643001d63e0c7a84e085bed452548fa88d45",
+      "size": "1.2 GB"
+    },
+    {
+      "name": "gpt-oss:20b",
+      "path": "C:\\Users\\abrady\\.ollama\\models\\blobs\\sha256-b112e727c6f18875636c56a779790a590d705aec9e1c0eb5a97d51fc2a778583",
+      "size": "12.8 GB"
+    }
+  ],
+  "generated_by": "setup_models.py",
+  "note": "This file is auto-generated. Run setup_models.py to refresh."
+}
